@@ -1,0 +1,16 @@
+{
+    "classes": [
+        {
+            "id": "calc",
+            "path" : "Calculator"
+        },
+        {
+            "id": "plus",
+            "path" : "Plus"
+        },
+        {
+            "id": "mul",
+            "path" : "Multiply"
+        }        
+    ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "simple-di",
+  "version": "1.0.0",
+  "description": "Dependency Injection",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "keywords": [
+    "di"
+  ],
+  "author": "Kasun Ramadasa",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "strip-json-comments": "^2.0.1"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
